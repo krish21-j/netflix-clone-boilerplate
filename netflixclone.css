@@ -70,24 +70,14 @@ body{
 .headings>div:nth-child(1)>img{
     height: 30px;
 }
+.ni{
+    display: flex;
+    align-items: center;
+}
 .headings>p{
     font-size: 140px;
 }
-.btns{
-    display: flex;
-  
-    gap: 2%;
 
-}
-.btns>button{
-    height: 40px;
-    width: 6%;
-    border-radius: 4px;
-    border: none;
-}
-.btns>button:nth-child(2){
-    background-color: rgba(187, 186, 186, 0.896);
-}
 .see-again{
     margin: 5% 5%;
 }
